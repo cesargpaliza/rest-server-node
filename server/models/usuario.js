@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+//libreria para 
 const uniqueValidator = require('mongoose-unique-validator');
 //const { delete } = require('../routes/usuario');
 
