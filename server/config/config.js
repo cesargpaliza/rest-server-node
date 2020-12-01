@@ -16,3 +16,6 @@ process.env.CADUCIDAD_TOKEN =  60 * 60 * 24 * 30;
 //SEDD DE AUTENTICACION
 process.env.SEED = process.env.SEED || 'cadena-comprobacion';
 
+//CLIENT ID GOOGLE SYNC
+process.env.CLIENTE_ID = process.env.CLIENTE_ID || '133645650926-nsng5i71vibevpabsfvf91br5l0eco63.apps.googleusercontent.com';
+
